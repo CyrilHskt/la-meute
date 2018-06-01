@@ -1,5 +1,13 @@
 ## Changelogs:
 
+#### V 1.1.1
+* fix texte tronqué sur les sections en vue mobile
+
+#### V 1.1.0
+* Création d'un site miroir "dev" via netlify
+* Ajout de la section "TEAM"
+* Optimisation du poids des images (-50%)
+
 #### V 1.0.4
 * Ajout des logos des jeux souvent joués dans La Meute
 * Création du Readme
