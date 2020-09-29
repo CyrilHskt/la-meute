@@ -1,5 +1,12 @@
 ## Changelogs:
 
+#### V 1.1.1
+* Mise à jour des membres du staff
+
+#### V 1.1.0
+* Correction des dates
+* Ajout des avatars
+
 #### V 1.0.4
 * Ajout des logos des jeux souvent joués dans La Meute
 * Création du Readme
