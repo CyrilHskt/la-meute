@@ -1,5 +1,9 @@
 ## Changelogs:
 
+#### V 1.1.2
+* Typo
+* Intégration de Coriace
+
 #### V 1.1.1
 * Mise à jour des membres du staff
 
