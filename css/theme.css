@@ -231,7 +231,7 @@ a:hover,a:focus {
 	}
 }
 .content-section {
-	padding:40px 0;
+	padding:0 20px ;
 	clear:both;
 }
 @media(min-width:767px) {
@@ -336,11 +336,26 @@ h3.team-pseudo {
 	font-size: 0.5em;
 	font-style: italic;
 }
-.team-desc{
+.team-member {
+	position: relative;
+}
+.member-info {
+	position: absolute;
+	top: 0;
+	right: 35px;
+	font-size: 14px;
+}
+.age {
+	top: 10px;
+}
+.pack {
+	top: 20px;
+}
+/* .team-desc{
 	font-style: italic;
 	text-align: justify;
 	font-size: 0.9em;
-}
+} */
 .alpha {
 	color: #cf1a22;
 }
