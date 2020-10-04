@@ -1,5 +1,8 @@
 ## Changelogs:
 
+#### v1.1.4
+* Ajout des liens steam
+
 #### v1.1.3
 * Typo
 * Modification de l'avatar de Paul Corvus
