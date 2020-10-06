@@ -341,6 +341,15 @@ section {
 	right: 100px;
 	font-size: 14px;
 }
+@media(max-width:768px) {
+	.team-avatar {
+		left: 53px;
+	}
+
+	.member-info {
+		right: 70px;
+	}
+}
 h3.team-pseudo {
 	margin-bottom: 3px;
 }
