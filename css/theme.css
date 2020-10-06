@@ -129,7 +129,7 @@ a:hover,a:focus {
 	padding:100px 0 100px 0;
 	text-align:center;
 	color:#fff;
-	background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.88)),url('../img/bg.jpg');
+	background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.88)),url('../img/bg-squad.jpg');
 	background-position: center center;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -326,25 +326,51 @@ section {
 	overflow:hidden;
 }
 /* Team section */
+.team-member {
+	position: relative;
+	min-height: 200px;
+}
 .team-avatar {
 	padding-bottom: 10px;
+	position: absolute;
+	left: 70px;
+}
+.member-info {
+	position: absolute;
+	top: 35px;
+	right: 100px;
+	font-size: 14px;
 }
 h3.team-pseudo {
-	margin-bottom: 10px;
+	margin-bottom: 3px;
 }
 .team-rank {
 	font-size: 0.5em;
 	font-style: italic;
 }
-.team-member {
-	position: relative;
-}
-.member-info {
+.roles {
 	position: absolute;
-	top: 0;
-	right: 35px;
-	font-size: 14px;
+	top: 60px;
 }
+
+.roles .main {
+	margin-bottom: 5px;
+}
+
+.roles .main img {
+	width: 40px;
+	height: 40px;
+	border: 2px solid black;
+	border-radius: 50%;
+}
+
+.roles .secondaries img {
+	width: 25px;
+	height: 25px;
+	border: 1px solid black;
+	border-radius: 50%;
+}
+
 .alpha {
 	color: #cf1a22;
 }
@@ -360,3 +386,4 @@ h3.team-pseudo {
 .louveteau{
 	color: #9159ae;
 }
+
