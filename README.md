@@ -1,5 +1,13 @@
 ## Changelogs:
 
+#### v1.2.1
+* Correction responsive
+
+#### v1.2
+* Modification des liens steam
+* Ajout des rôles principaux et secondaires
+* Changement de background du header
+
 #### v1.1.4
 * Ajout des liens steam
 
