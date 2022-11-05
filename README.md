@@ -1,4 +1,9 @@
 ## Changelogs:
+#### v1.3.0
+* Correction widget discord
+* Mise à jour liste des loups/louveteaux
+* Mise à jour des avatars
+* Correction des dates
 
 #### v1.2.1
 * Correction responsive
